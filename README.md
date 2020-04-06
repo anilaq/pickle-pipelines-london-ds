@@ -2,9 +2,16 @@
 
 This lesson repo contains materials for London campus' `Pickles and Pipelines` lecture for Flatiron School.
 
+## To Do 
+
+* [ ] Create Notebook that has Pickle Example
+* [ ] Create Notebook with Pipeline (follow labs) 
+* [ ] Create Slides 
+* [ ] Create Exit Ticket
+
 ## Materials
 
-* [Slides]()
+* [Slides](https://docs.google.com/presentation/d/19SRAUOQQ9lnIcn3OYGXkYd2NI0_gloOwoZ-VLSrUgSo/edit?usp=sharing)
 * [Exit Ticket]()
 
 ## Learning Objectives  
@@ -21,5 +28,7 @@ By the end of the lesson, students should be able to ...
 * [ ] Larger level question about ML pipelines?
 
 
+
 ## External Resources 
 
+* [Deep Dive on Datacamp](https://www.datacamp.com/community/tutorials/pickle-python-tutorial)

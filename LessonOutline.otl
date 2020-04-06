@@ -1,0 +1,68 @@
+Lesson Outline
+
+Know a lot of things at this point 
+	Machine learning models
+	Some good for some, some for others
+	Not only do ML models have paramters, but hyperparamters
+	Zooming out, have covered a lot
+		CRISPDM
+		ETL 
+		Four Step Data Science
+		A lot to think about 
+		Tools here to help 
+			Pipelining
+			Pickles
+Pipeline
+	IMO has two different defintions
+		Python Specific
+			Materials from LearnCo 
+			Why do this? 
+		Data Science General
+			The big picture 
+			Golden Rules
+				Write Scripts with the future in mind 
+				Version Control 
+				Don't modify raw data 
+Pickles
+	In larger picture, not going to press go at start
+	Why Good ?
+		Scale in terms of sheer size of data
+		Scale in terms of how long it takes to train
+	Why Bad?
+		Don't know what is hiding inside of pickle
+
+Lab
+	Putting it all together
+	Set Up Github Repositiory 
+		Now Version Controlled
+	Set up directories with different data
+		Raw data
+		Clean Data 
+		Pickles for Data 
+		Scripts for each one 
+	Run EDA 
+		You know this
+	Run ML Models 
+		Make job easier with pipelines 
+		Super time consuming 
+		Save models as pickle  
+	Insights
+		Job is mostly prediction?
+		Just need to optimize for speed and effeciency 
+	Share
+		What was found? 
+
+
+## Concepts to Double Over
+
+Cost Functions 
+Gradient Descent
+
+Calculate Precision, Recall, F1 
+
+Pick ROC 
+
+Class Imbalance Issues?
+
+
+
