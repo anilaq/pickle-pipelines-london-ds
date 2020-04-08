@@ -2,17 +2,10 @@
 
 This lesson repo contains materials for London campus' `Pickles and Pipelines` lecture for Flatiron School.
 
-## To Do 
-
-* [ ] Create Notebook that has Pickle Example
-* [ ] Create Notebook with Pipeline (follow labs) 
-* [ ] Create Slides 
-* [ ] Create Exit Ticket
-
 ## Materials
 
 * [Slides](https://docs.google.com/presentation/d/19SRAUOQQ9lnIcn3OYGXkYd2NI0_gloOwoZ-VLSrUgSo/edit?usp=sharing)
-* [Exit Ticket]()
+* [Exit Ticket | NOT CREATED YET]()
 
 ## Learning Objectives  
 
@@ -24,10 +17,7 @@ By the end of the lesson, students should be able to ...
 * [ ] Write Python code that is able to load in a pickle  
 * [ ] Explain why it is not a good idea to open a pickle that you do not trust 
 * [ ] Explain reasons why someone might want to use the Pipeline() function  
-* [ ] Implement a grid search within a pipeline  
-* [ ] Larger level question about ML pipelines?
-
-
+* [ ] Implement a grid search within a pipeline with boilerplate code 
 
 ## External Resources 
 
